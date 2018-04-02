@@ -45,7 +45,7 @@ In your browser, type in **localhost:2403/dashboard**
 
 Click on the **Sign up** and enter username, password, and email
 
-Click the **Sign up** button
+Click the **Sign up** button to submit
 
 Proceed to log in with newly created username and password
 
@@ -75,4 +75,4 @@ Click **Choose files** to pick an image to Upload
 
 Click **Post** button, an "upload successful" message will appear
 
-Exit out of the upload window to view newly posted image
+Exit out of the upload window to view newly posted image on feed
