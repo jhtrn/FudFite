@@ -1,7 +1,7 @@
 # FUD FITE
 
+**Project 1 - CPSC 473 Front-End Development course** <br />
 Users are able to upload their food pictures and argue about whose food looks tastier.
-This is for **Project 1 - CPSC 473 Front-End Development course**.
 
 ## Installation/Configuration Documentation
 
