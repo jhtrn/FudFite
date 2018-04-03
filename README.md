@@ -84,4 +84,4 @@ Exit out of the upload window to view newly posted image on feed
 
 ## Credits
 
-Images were used under the Creative Commons Zero (CC0) license from [`PEXELS`](https://www.pexels.com)
+Images were used under the **Creative Commons Zero (CC0) license** from [`PEXELS`](https://www.pexels.com)
