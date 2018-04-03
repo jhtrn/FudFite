@@ -1,7 +1,7 @@
 # FUD FITE
 
 **Project 1 - CPSC 473 Front-End Development course** <br />
-Users are able to upload their food pictures and argue about whose food looks tastier.
+Users are able to upload their food pictures and argue about whose food looks tastier. <br />
 Developed by Robert Hare, Leigh Salvador, Justine Tran, Steve Sanchez, Hector Bernal.
 
 ## Installation/Configuration Documentation
