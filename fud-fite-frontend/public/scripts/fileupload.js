@@ -1,8 +1,6 @@
 var files = [];
 var $ = window.jQuery;
 
-$(".alert-success").hide();
-
 var uploadFiles = function() {
 
   var fd = new FormData()
