@@ -2,6 +2,7 @@
 
 **Project 1 - CPSC 473 Front-End Development course** <br />
 Users are able to upload their food pictures and argue about whose food looks tastier.
+Developed by Robert Hare, Leigh Salvador, Justine Tran, Steve Sanchez, Hector Bernal.
 
 ## Installation/Configuration Documentation
 
@@ -80,3 +81,7 @@ Click **Choose files** to pick an image to Upload
 Click **Post** button, an "upload successful" message will appear
 
 Exit out of the upload window to view newly posted image on feed
+
+## Credits
+
+Images were used under the Creative Commons Zero (CC0) license from [`PEXELS`](https://www.pexels.com)
