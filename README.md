@@ -11,19 +11,15 @@ Users are able to upload their food pictures and argue about whose food looks ta
 
 [`Node.js`](https://nodejs.org/en/) and follow the prompts.
 
-[`MongoDB`](https://docs.mongodb.com/manual/administration/install-community/) for backend.
-
-[`Deployd`](https://github.com/deployd/deployd#install-from-npm) for backend.
-
-`npm init` on terminal to initialize package.json
-
-`npm install forever` on terminal
-
 ### Front-End -> Run In Terminal
 
-`cd/directory-of-Fud-Fite/fud-fite-frontend` change _directory-of-Fud-Fite_ to the directory in which you downloaded the repo
+`cd/directory-of-Fud-Fite/FudFite-master/fud-fite-frontend` change _directory-of-Fud-Fite_ to the directory in which you downloaded the repo (i.e. Downloads)
 
-`npm install gulp` on terminal to install gulp
+## Install
+
+[`Gulp.js`](https://gulpjs.com) a task management library for converting SASS files into a single CSS file.
+
+[`Sass`](https://sass-lang.com) an extension for css that allows for nested rules.
 
 `npm start` on terminal and **localhost:3000/index.html** will show up on your browser
 
@@ -31,7 +27,15 @@ Users are able to upload their food pictures and argue about whose food looks ta
 
 Open another terminal window (CMD+T or CNTRL+T) for the backend.
 
-`cd/directory-of-Fud-Fite/fud-fite-backend` change _directory-of-Fud-Fite_ to the directory in which you downloaded the repo
+`cd/directory-of-Fud-Fite/FudFite-master/fud-fite-backend` change _directory-of-Fud-Fite_ to the directory in which you downloaded the repo (i.e. Downloads)
+
+## Install
+
+[`MongoDB`](https://docs.mongodb.com/manual/administration/install-community/) for backend.
+
+[`Deployd`](https://github.com/deployd/deployd#install-from-npm) for backend.
+
+`npm install forever` on terminal
 
 `forever start run_dpd.js` on terminal
 
@@ -43,7 +47,7 @@ In your browser, type in **localhost:2403/dashboard**
 
 ### New Users
 
-Click on the **Sign up** and enter username, password, and email
+Click on **Sign up** and enter username, password, and email
 
 Click the **Sign up** button to submit
 
@@ -55,7 +59,7 @@ Log in with username and password
 
 ### Food Categories
 
-Allows users to view food images by categories
+Allows users to view food images by categories {Breakfast, Lunch, Dinner, Dessert, Snack}
 
 ### Food Feed
 
