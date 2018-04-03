@@ -11,11 +11,11 @@ Users are able to upload their food pictures and argue about whose food looks ta
 
 [`Node.js`](https://nodejs.org/en/) and follow the prompts.
 
-### Front-End -> Run In Terminal
+## Front-End -> Run In Terminal
 
 `cd/directory-of-Fud-Fite/FudFite-master/fud-fite-frontend` change _directory-of-Fud-Fite_ to the directory in which you downloaded the repo (i.e. Downloads)
 
-## Install
+### Install
 
 [`Gulp.js`](https://gulpjs.com) a task management library for converting SASS files into a single CSS file.
 
@@ -23,13 +23,13 @@ Users are able to upload their food pictures and argue about whose food looks ta
 
 `npm start` on terminal and **localhost:3000/index.html** will show up on your browser
 
-### Back-End -> Run In Terminal
+## Back-End -> Run In Terminal
 
 Open another terminal window (CMD+T or CNTRL+T) for the backend.
 
 `cd/directory-of-Fud-Fite/FudFite-master/fud-fite-backend` change _directory-of-Fud-Fite_ to the directory in which you downloaded the repo (i.e. Downloads)
 
-## Install
+### Install
 
 [`MongoDB`](https://docs.mongodb.com/manual/administration/install-community/) for backend.
 
