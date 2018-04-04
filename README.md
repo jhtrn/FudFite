@@ -42,7 +42,7 @@ Open another terminal window (CMD+T or CNTRL+T) for the backend.
 
 `sudo mongod` on terminal
 
-In your browser, type in **localhost:2403/dashboard**
+In your browser, type in **localhost:2403/dashboard** or type **dpd -d** on terminal
 
 ## User Documentation
 
