@@ -1,6 +1,13 @@
 var files = [];
 var $ = window.jQuery;
 
+var setFiles = function(element) {
+  files = [];
+  for (var i = 0; i < element.files.length; i++) {
+    files.push(element.files[i]);
+  }
+};
+
 var uploadFiles = function() {
 
   var fd = new FormData()
@@ -24,11 +31,4 @@ var uploadFiles = function() {
     };
     xhr.send(fd);
   });
-};
-
-var setFiles = function(element) {
-  files = [];
-  for (var i = 0; i < element.files.length; i++) {
-    files.push(element.files[i]);
-  }
 };

@@ -80,7 +80,7 @@
 
   function addUserToTop(data) {
     var $h3UserName = $("<h3></h3>", {
-      "text": "Welcome to the FITE, " + data.username
+      "text": "Welcome to the FITE,\n" + data.username
     });
 
     var $divUserDetails = $("<div></div>", {
