@@ -14,6 +14,7 @@ var uploadFiles = function() {
   for (var i in files) {
     fd.append("uploadedFile", files[i]);
   }
+  //Used xhr for POST based on documentation of dpd-fileupload module 
   dpd.users.me(function(results) {
     var category = $("#category :selected").val();
     var xhr = new XMLHttpRequest();
